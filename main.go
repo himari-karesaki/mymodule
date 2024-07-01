@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-
+	//パス名があってればモジュールとしてインポートできる
 	"github.com/himari-karesaki/mymodule/mathutils"
 )
 
