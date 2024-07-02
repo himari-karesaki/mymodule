@@ -1,0 +1,4 @@
+mode: set
+github.com/himari-karesaki/mymodule/mathutils/add.go:3.24,5.2 1 1
+github.com/himari-karesaki/mymodule/mathutils/init.go:6.13,8.2 1 1
+github.com/himari-karesaki/mymodule/mathutils/substract.go:3.29,5.2 1 1
